@@ -1,0 +1,6 @@
+2024, 08 18	12:22:55	6c8af60e-6ec0-48ab-a07a-cdf7efdd3985	Log Event Emitted
+2024, 08 18	12:23:01	a174d6cb-d8ab-45c7-a8b9-6e6840f6fce2	Log Event Emitted
+2024, 08 18	12:24:32	eb29ea40-6676-4795-980a-ec064566b62c	Log Event Emitted
+2024, 08 18	12:25:01	740532c7-200d-4c38-bc21-474fd2ca388e	Log Event Emitted
+2024, 08 18	12:25:13	7172860f-1e65-4c53-9cfe-ad67c1b7c15b	Log Event Emitted
+2024, 08 18	13:13:56	360048eb-8974-4401-b3b0-63daf7b00969	Log Event Emitted
