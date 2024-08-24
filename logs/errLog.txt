@@ -1,1 +1,7 @@
 2024, 08 18	13:16:46	5b931a86-d0c8-47b0-a6bc-75bc18000b6c	TypeError: fsPromises.readFil is not a function
+2024, 08 23	21:18:32	3c39a304-ebc9-4f07-98bc-31280f823de6	Error: Not allowed by CORS
+2024, 08 23	21:19:33	d13e9d7f-b45b-4048-8ba4-c3f37ab95c0f	Error: Not allowed by CORS/tundefined
+2024, 08 23	21:21:10	b9965eaf-bf76-4100-ae82-fdbb91d367ad	Error: Not allowed by CORS	undefined
+2024, 08 23	21:37:30	68f78cf5-b28b-4195-8e16-5b4c74ed149a	Error: ENOENT: no such file or directory, stat 'C:\Users\ryang\OneDrive\Desktop\Node\routes\,,\views\new-page.html'	undefined
+2024, 08 23	22:01:46	bf3a4af7-a7b6-4172-877e-8120ef22b92a	TypeError: req.json is not a function	undefined
+2024, 08 23	22:02:16	a6eff00d-b483-4766-a93c-9bed2d8a4236	TypeError: req.json is not a function	undefined
